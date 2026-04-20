@@ -1,6 +1,6 @@
 def more_hello():
-    return "hi"
+    return "hola"
 
 
 def more_goodbye():
-    return "bye"
+    return "adios"
